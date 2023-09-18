@@ -2,3 +2,8 @@
 		chapter1 : 
 			
 					my note under chapter1
+
+	
+		editor branch notes:
+	
+				new text 
