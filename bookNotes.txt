@@ -1,4 +1,8 @@
 
 
 	This is my bookNotes;
+
+
+	Notes made remotly, 
+	Team work simulation
 	
